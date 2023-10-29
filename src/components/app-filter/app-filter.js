@@ -1,6 +1,6 @@
 import classNames from 'classnames';
 
-import './app-filter.css'
+import './app-filter.sass'
 
 const AppFilter = ({filter, onFilterSelect}) => {
     const btnsData = [

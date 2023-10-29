@@ -1,6 +1,6 @@
 import classNames from 'classnames';
 
-import './employees-list-item.css';
+import './employees-list-item.sass';
 
 const EmployeesListItem = ({name, salary, onDelete, onToggleProp, rise, increase, onChangeSalary}) => {
     return (
